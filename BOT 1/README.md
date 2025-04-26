@@ -14,4 +14,4 @@ Ce projet est un chatbot simple avec une interface graphique développée en Pyt
 ## Installation
 1. Clonez ce dépôt :
    ```bash
-   git clone [https://github.com/codeGeekPro/chatbot-codegeekpro.git](https://github.com/codeGeekPro/CHATBOTS/)
+   git clone https://github.com/codeGeekPro/CHATBOTS/tree/main/BOT%201
